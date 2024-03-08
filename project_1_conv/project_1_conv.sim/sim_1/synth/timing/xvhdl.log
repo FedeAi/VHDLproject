@@ -1,0 +1,5 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/federico/Documents/progetti/RetiLogiche/project_1_conv/project_1_conv.srcs/sim_1/imports/Downloads/gen_testbench_no_reset.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity project_tb
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/federico/Documents/progetti/RetiLogiche/project_1_conv/project_1_conv.srcs/sim_1/imports/RetiLogiche/tb_example.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity project_tb
+WARNING: [VRFC 10-1193] overwriting existing primary unit project_tb [/home/federico/Documents/progetti/RetiLogiche/project_1_conv/project_1_conv.srcs/sim_1/imports/RetiLogiche/tb_example.vhd:7]

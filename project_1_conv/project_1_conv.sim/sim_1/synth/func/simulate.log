@@ -1,0 +1,5 @@
+Vivado Simulator 2016.4
+Time resolution is 1 ps
+Failure: Simulation Ended! TEST PASSATO
+Time: 7650100 ps  Iteration: 0  Process: /project_tb/test  File: /home/federico/Documents/progetti/RetiLogiche/project_1_conv/project_1_conv.srcs/sim_1/imports/Downloads/tb_re_encode.vhd
+$finish called at time : 7650100 ps : File "/home/federico/Documents/progetti/RetiLogiche/project_1_conv/project_1_conv.srcs/sim_1/imports/Downloads/tb_re_encode.vhd" Line 185

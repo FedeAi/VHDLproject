@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:19 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Fri Apr  1 20:24:48 2022
+# Process ID: 11776
+# Current directory: /home/federico/Documents/progetti/RetiLogiche/project_1_conv/project_1_conv.sim/sim_1/synth/func
+# Command line: wbtcv -mode batch -source /home/federico/Documents/progetti/RetiLogiche/project_1_conv/project_1_conv.sim/sim_1/synth/func/xsim.dir/project_tb_func_synth/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /home/federico/Documents/progetti/RetiLogiche/project_1_conv/project_1_conv.sim/sim_1/synth/func/webtalk.log
+# Journal file: /home/federico/Documents/progetti/RetiLogiche/project_1_conv/project_1_conv.sim/sim_1/synth/func/webtalk.jou
+#-----------------------------------------------------------
+source /home/federico/Documents/progetti/RetiLogiche/project_1_conv/project_1_conv.sim/sim_1/synth/func/xsim.dir/project_tb_func_synth/webtalk/xsim_webtalk.tcl -notrace
